@@ -1,0 +1,2 @@
+# Hyperspectral-3D-CNN-high-accuracy-HSI-classification-with-benchmarking
+A 3D Convulational neural network pipeline designed using Tensorflow to classify Hyperspectral remote sensing data from the paviaU dataset. It uses a custom built benchmarking framework logging in parameters like inference latency, disc space consumed, total parameters etc. The aim is to compress the model to be deployed on edge computers. 
